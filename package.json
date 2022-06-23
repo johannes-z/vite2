@@ -18,7 +18,7 @@
     "vue-template-compiler": "^2.6.14"
   },
   "dependencies": {
-    "@pnp/sp": "^2.13.0",
-    "vue": "^2.6.14"
+    "vue": "^2.7.0-beta.5",
+    "vue-infinite-loading": "^2.4.5"
   }
 }
