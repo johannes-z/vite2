@@ -1,0 +1,24 @@
+{
+  "name": "vite-repro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "vite build",
+    "dev": "vite serve",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^1.1.0",
+    "vite": "2.9.12",
+    "vite-plugin-vue2": "^1",
+    "vue-template-compiler": "^2.6.14"
+  },
+  "dependencies": {
+    "@pnp/sp": "^2.13.0",
+    "vue": "^2.6.14"
+  }
+}
